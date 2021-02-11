@@ -30,3 +30,8 @@ Table creaton
 Name|Rollno|College
 ----|------|-------
 Ravi|37|vrsec
+---------------------------------------------
+```python
+def sub(a,b):
+  return a-b
+```
